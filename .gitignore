@@ -1,0 +1,10 @@
+area_calculator
+bigger_area_calculator
+*.o
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+c-echo
+lib/
+test
